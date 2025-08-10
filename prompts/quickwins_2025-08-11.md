@@ -1,31 +1,39 @@
 ### Quick Wins para Consultoría de Operaciones y Logística
 
-#### 1) Quick win #1: Optimización de procesos para clientes actuales
-- **Pasos:**
-  1. Identificar 3 clientes actuales que podrían beneficiarse de una mejora en sus procesos logísticos.
-  2. Proponer una consulta gratuita de 1 hora para analizar sus procesos actualizados.
-  3. Ofrecer un paquete de optimización de procesos con un descuento exclusivo.
-- **Estimación de Impacto (€):** 1,500 - 3,000 € (dependiendo del número de clientes conversados).
-- **Esfuerzo:** Bajo.
-- **Riesgo:** Bajo, siempre y cuando se mantenga la relación con los clientes actuales.
+#### 1) Quick win #1: Optimización de precios de servicios
+- **Pasos**: 
+  1. Analizar precios actuales de servicios ofrecidos.
+  2. Realizar una investigación de mercado y competencia.
+  3. Ajustar precios de acuerdo a la disposición a pagar de los clientes y rentabilidad.
+  4. Comunicar el cambio a clientes actuales y potenciales.
+- **Estimación de impacto**: €1,000 - €2,000 en ventas adicionales (dependiendo del volumen de clientes).
+- **Esfuerzo**: Bajo.
+- **Riesgo**: Bajo. Puede resultar en mayor satisfacción del cliente si los precios son percibidos como justos.
 
-#### 2) Quick win #2: Webinar sobre mejores prácticas en logística
-- **Pasos:**
-  1. Diseñar un webinar de 30-45 minutos que aporte valor sobre optimización logística.
-  2. Promocionar en redes sociales y a través de la lista de correo existente.
-  3. Al final del webinar, ofrecer una consultoría de seguimiento con un 20% de descuento para los asistentes.
-- **Estimación de Impacto (€):** 1,000 - 2,500 € (a través de ventas de consultorías).
-- **Esfuerzo:** Medio.
-- **Riesgo:** Medio, depende de la asistencia y la conversión.
+---
 
-#### 3) Quick win #3: Redes Sociales y Testimonios
-- **Pasos:**
-  1. Solicitar a clientes satisfechos que proporcionen un testimonio breve y un video, si es posible.
-  2. Compartir estos testimonios en las redes sociales y en la página web.
-  3. Agradecer públicamente a los clientes en las redes, fomentando el boca a boca y la visibilidad.
-- **Estimación de Impacto (€):** 500 - 1,500 € (nuevo negocio a través de referencias y credibilidad).
-- **Esfuerzo:** Bajo.
-- **Riesgo:** Bajo, ya que los testimonios suelen ser bien recibidos.
+#### 2) Quick win #2: Creación de contenido en redes sociales
+- **Pasos**: 
+  1. Identificar 3 temas relevantes relacionados con operaciones y logística.
+  2. Crear 3 publicaciones (imágenes, infografías o videos cortos).
+  3. Publicar en redes sociales (LinkedIn, Facebook, Instagram).
+  4. Fomentar la interacción respondiendo a comentarios y compartiendo en grupos relevantes.
+- **Estimación de impacto**: €500 - €1,500 a través de nuevos contactos o clientes interesados.
+- **Esfuerzo**: Medio.
+- **Riesgo**: Bajo. El contenido puede no generar interacción, pero la inversión de tiempo es limitada.
+
+---
+
+#### 3) Quick win #3: Programa de referidos
+- **Pasos**: 
+  1. Diseñar un sencillo programa de referidos (descuentos o un servicio gratuito por cada referido que se convierta en cliente).
+  2. Comunicar el programa a la base de datos existente (correo electrónico).
+  3. Hacer seguimiento a las referencias y agradecer públicamente a quienes participen.
+- **Estimación de impacto**: €1,000 - €3,000 según la respuesta y la cantidad de referidos.
+- **Esfuerzo**: Bajo.
+- **Riesgo**: Medio. Podría incentivar la referencia, pero no se garantizan resultados inmediatos.
+
+---
 
 ### CTA Accionable para Hoy:
-**Identifica un cliente actual que podría beneficiarse de una optimización en su proceso y agenda una llamada rápida para ofrecerle una consulta gratuita.**
+Selecciona uno de los quick wins propuestos y comienza a definir un plan de acción. Por ejemplo, si eliges el programa de referidos, elabora un borrador del mensaje que enviarás a tus clientes para dar a conocer el programa. ¡Actúa y genera ingresos rápidamente!
